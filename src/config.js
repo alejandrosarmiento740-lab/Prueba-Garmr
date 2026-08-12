@@ -1,0 +1,1 @@
+const AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"; const githubToken = "ghp_16C7e42F292c6912E7710c838347Ae178B4a"; const dbPassword = process.env.DB_PASSWORD; const stripeSecret = "sk_live_51H8xK2eZvKYlo2C0X9pQrT3nW7mJ4dR6"; module.exports = { AWS_ACCESS_KEY, githubToken, dbPassword, stripeSecret };
